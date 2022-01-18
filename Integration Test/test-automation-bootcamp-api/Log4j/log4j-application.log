@@ -1,0 +1,6 @@
+2022-01-18 15:35:10 INFO  Log4j:18 - Read json file: {"password":"patika.cs146","email":"cicek.Sepeti146@gmail.com"}
+2022-01-18 15:35:11 INFO  Log4j:18 - Read json file: {"password":"patika.cs146","email":"cicek.Sepeti146@gmail.com"}
+2022-01-18 15:35:12 INFO  Log4j:18 - Success sign in response token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNpY2VrLlNlcGV0aTE0NkBnbWFpbC5jb20iLCJpZCI6IkcyZldWUWRla2Jva2VpSHY3aVdOIiwiaWF0IjoxNjQyNTA5MzEyfQ.IM3dH17lkFPBSck7ecYE0ef6v4405k13qH68itYcCWw
+2022-01-18 15:35:12 INFO  Log4j:18 - Read json file: {"password":"mizu","email":"ciceksepetibootcamp"}
+2022-01-18 15:35:13 INFO  Log4j:18 - Unauthorized sign in response status code: 401
+2022-01-18 15:35:13 INFO  Log4j:18 - Unauthorized sign in response message: Unauthorized

@@ -1,0 +1,490 @@
+2022-01-18 20:13:23 INFO  Log4j:10 - Test is starting...
+2022-01-18 20:13:29 INFO  Log4j:18 - Opening Page : https://www.mizu.com/flowers
+2022-01-18 20:13:29 INFO  Log4j:18 - Waited for page to load
+2022-01-18 20:13:34 INFO  Log4j:18 - Closed address focus icon
+2022-01-18 20:13:35 INFO  Log4j:18 - Click Sort from filter field
+2022-01-18 20:13:35 INFO  Log4j:18 - Select Price: High to Low from sort filter field
+2022-01-18 20:13:37 INFO  Log4j:18 - Page size: 17
+2022-01-18 20:15:03 INFO  Log4j:18 - Scrolled down to the last product
+2022-01-18 20:16:11 INFO  Log4j:18 - Price list of all products : [1749.0, 1519.0, 1509.0, 1469.0, 1469.0, 1469.0, 1459.0, 1369.0, 1369.0, 1359.0, 1339.0, 1309.0, 1299.0, 1299.0, 1179.0, 1159.0, 1112.44, 1109.0, 1089.0, 1059.0, 1029.0, 979.0, 979.0, 969.0, 969.0, 949.0, 939.0, 919.0, 909.0, 909.0, 899.0, 899.0, 899.0, 899.0, 899.0, 889.0, 889.0, 879.0, 879.0, 869.0, 869.0, 859.0, 859.0, 849.0, 839.0, 839.0, 839.0, 839.0, 839.0, 829.0, 829.0, 829.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 809.0, 809.0, 809.0, 799.0, 799.0, 799.0, 799.0, 799.0, 789.0, 789.0, 789.0, 789.0, 789.0, 789.0, 779.0, 779.0, 779.0, 779.0, 769.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 749.0, 749.0, 749.0, 749.0, 749.0, 749.0, 739.0, 739.0, 739.0, 739.0, 729.0, 729.0, 729.0, 729.0, 729.0, 719.0, 719.0, 719.0, 719.0, 709.0, 709.0, 709.0, 709.0, 709.0, 709.0, 706.03, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 639.0, 639.0, 639.0, 639.0, 639.0, 639.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 628.45, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 525.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 473.28, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 438.79, 430.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 398.0, 394.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 364.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 332.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 294.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 287.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 276.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 259.0, 259.0, 259.0, 259.0, 259.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 229.0, 229.0, 229.0, 229.0, 229.0, 229.0, 219.0, 219.0, 219.0, 219.0, 219.0, 219.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 189.0, 189.0, 189.0, 169.0]
+2022-01-18 20:16:11 INFO  Log4j:18 - Price order is correct
+2022-01-18 20:16:14 INFO  Log4j:14 - Test is ending...
+2022-01-18 20:30:46 INFO  Log4j:10 - Test is starting...
+2022-01-18 20:30:49 INFO  Log4j:18 - Opening Page : https://www.mizu.com/flowers
+2022-01-18 20:30:49 INFO  Log4j:18 - Waited for page to load
+2022-01-18 20:30:50 INFO  Log4j:18 - Closed address focus icon
+2022-01-18 20:30:51 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:30:56 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:01 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:06 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:11 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:16 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:21 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:26 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:32 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:37 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 20:31:37 INFO  Log4j:18 - Created map with status code and link
+2022-01-18 20:31:37 INFO  Log4j:18 - Status code and link map sorted by link sort
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=2
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=3
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=4
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=5
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=6
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=7
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=8
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=9
+2022-01-18 20:31:37 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=10
+2022-01-18 20:31:39 INFO  Log4j:14 - Test is ending...
+2022-01-18 21:22:18 INFO  Log4j:10 - Test is starting...
+2022-01-18 21:22:20 INFO  Log4j:18 - Opening Page : https://www.mizu.com/
+2022-01-18 21:22:20 INFO  Log4j:18 - Current url : https://www.mizu.com/
+2022-01-18 21:22:20 INFO  Log4j:18 - Waited for page to load
+2022-01-18 21:22:22 INFO  Log4j:18 - Closed address focus icon
+2022-01-18 21:22:23 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:25 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:25 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:25 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:25 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:27 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:27 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:29 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:29 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:30 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:30 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:32 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:32 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:33 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:33 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:35 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:35 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:36 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:36 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:38 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:38 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:40 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:40 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:41 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:41 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:43 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:43 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:43 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:43 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:44 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:44 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:46 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:46 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:48 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:48 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:50 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:51 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:52 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:52 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:53 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:56 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:56 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:57 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:57 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:57 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:57 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:22:59 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:22:59 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:00 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:00 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:00 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:00 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:02 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:02 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:03 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:03 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:04 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:04 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:04 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:04 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:06 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:06 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:08 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:08 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:10 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:10 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:11 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:11 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:12 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:12 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:14 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:14 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:16 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:16 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:17 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:17 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:17 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:17 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:19 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:19 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:20 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:20 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:21 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:21 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:22 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:22 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:24 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:24 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:25 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:25 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:26 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:26 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:28 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:28 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:28 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:28 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:29 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:30 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:30 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:30 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:31 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:31 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:33 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:33 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:36 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:36 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:37 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:37 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:39 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:39 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:40 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:40 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:42 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:42 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:43 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:43 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:45 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:45 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:46 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:46 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:47 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:47 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:50 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:50 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:52 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:52 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:54 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:54 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:54 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:55 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:55 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:57 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:57 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:23:57 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:23:57 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:00 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:00 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:01 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:01 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:03 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:03 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:04 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:04 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:04 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:04 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:04 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:04 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:05 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:05 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:06 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:06 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:06 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:06 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:06 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:06 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:06 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:06 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:08 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:08 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:09 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:09 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:10 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:10 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:11 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:11 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:11 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:11 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:13 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:13 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:14 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:14 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:16 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:16 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:17 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:17 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:19 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:19 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:20 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:20 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:21 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:21 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:21 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:21 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:22 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:22 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:22 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:22 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:22 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:22 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:22 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:22 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:23 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:23 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:23 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:23 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:24 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:24 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:25 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:25 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:27 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:27 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:28 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:28 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:31 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:31 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:32 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:32 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:33 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:34 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:34 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:35 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:35 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:35 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:35 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:35 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:35 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:36 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:36 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:36 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:36 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:38 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:38 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:39 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:39 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:41 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:41 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:42 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:42 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:43 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:43 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:45 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:45 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:45 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:45 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:47 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:47 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:48 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:48 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:49 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:49 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:51 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:51 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:53 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:53 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:54 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:54 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:54 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:56 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:56 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:56 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:56 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:57 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:57 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:24:58 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:24:58 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:00 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:00 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:02 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:02 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:03 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:03 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:05 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:05 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:05 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:05 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:07 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:07 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:08 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:08 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:08 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:08 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:08 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:08 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:09 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:09 INFO  Log4j:18 - Clickable links pulled
+2022-01-18 21:25:09 INFO  Log4j:18 - Status codes of links received
+2022-01-18 21:25:09 INFO  Log4j:18 - Added links and status codes to the map
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/i-am-sorry : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/balloons : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/breakfast-meal : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-gourmet : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/kitchenware : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/jewelry : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/stationery : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/fresh-flowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-products-gourmet : Broken Link --> HTTP status code : 404
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/mugs : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/boxed-chocolates : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/bundles-stuffed-toys : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/orchids : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-kits : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/bundles : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/flower-arrangements : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-mugs : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-blankets : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gift-boxes-personalized : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/lolaphoto : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-of-her : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/clothing-photos : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gifts-for-her : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/toys : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/backpacks : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/flowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/roses : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/boxed-truffles : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/carnation : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/perfumes : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-photos : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gourmet-offers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/home-products : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/candles : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/funeral-arrangements : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/affordable-flowers-250 : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/bouquets : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/occasions-balloons : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-players : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/congratulations : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-job : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-baby : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/wall-frame : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/aromatherapy : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/potted-flowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/get-well-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/occasions-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/stationery-products-photos : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-jewelry : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gourmet : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gift-offers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/sweets-and-candies : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/cookies : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/anniversary-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/mugs-photos : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/anniversary : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/decoration : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/keychain : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-job-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-balloons : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/occasions : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/just-because : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/i-am-sorry-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/offers-flowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-flowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/funeral : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/flower-baskets : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/get-well : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/fashion-and-accesories : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/congratulation-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-arrangements : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gerbera : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/chocolates : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/sunflowers : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/brownies : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new-baby-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/new : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/cakes : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/kits : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/birthday-of-him : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/daisies : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/wallets-passport-holder : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/personalized-gifts-birthday : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/graduation-gifts : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/bags : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/home-and-living-photos : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/thank-you : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/graduation : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/flower-types : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gifts-same-day : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/beauty-products : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gifts-for-him : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/clothing : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/lillies : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:09 INFO  Log4j:18 - https://www.mizu.com/gift-sets : Valid Link --> HTTP status code : 200
+2022-01-18 21:25:12 INFO  Log4j:14 - Test is ending...
+2022-01-18 21:25:13 INFO  Log4j:10 - Test is starting...
+2022-01-18 21:25:14 INFO  Log4j:18 - Opening Page : https://www.mizu.com/flowers
+2022-01-18 21:25:14 INFO  Log4j:18 - Waited for page to load
+2022-01-18 21:25:15 INFO  Log4j:18 - Closed address focus icon
+2022-01-18 21:25:15 INFO  Log4j:18 - Click Sort from filter field
+2022-01-18 21:25:16 INFO  Log4j:18 - Select Price: High to Low from sort filter field
+2022-01-18 21:25:17 INFO  Log4j:18 - Page size: 17
+2022-01-18 21:26:43 INFO  Log4j:18 - Scrolled down to the last product
+2022-01-18 21:27:45 INFO  Log4j:18 - Price list of all products : [1749.0, 1519.0, 1509.0, 1469.0, 1469.0, 1469.0, 1459.0, 1369.0, 1369.0, 1359.0, 1339.0, 1309.0, 1299.0, 1299.0, 1179.0, 1159.0, 1112.44, 1109.0, 1089.0, 1059.0, 1029.0, 979.0, 979.0, 969.0, 969.0, 949.0, 939.0, 919.0, 909.0, 909.0, 899.0, 899.0, 899.0, 899.0, 899.0, 889.0, 889.0, 879.0, 879.0, 869.0, 869.0, 859.0, 859.0, 849.0, 839.0, 839.0, 839.0, 839.0, 839.0, 829.0, 829.0, 829.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 819.0, 809.0, 809.0, 809.0, 799.0, 799.0, 799.0, 799.0, 799.0, 789.0, 789.0, 789.0, 789.0, 789.0, 789.0, 779.0, 779.0, 779.0, 779.0, 769.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 759.0, 749.0, 749.0, 749.0, 749.0, 749.0, 749.0, 739.0, 739.0, 739.0, 739.0, 729.0, 729.0, 729.0, 729.0, 729.0, 719.0, 719.0, 719.0, 719.0, 709.0, 709.0, 709.0, 709.0, 709.0, 709.0, 706.03, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 699.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 689.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 679.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 669.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 659.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 649.0, 639.0, 639.0, 639.0, 639.0, 639.0, 639.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 629.0, 628.45, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 619.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 609.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 599.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 589.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 579.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 569.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 559.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 549.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 539.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 525.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 519.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 509.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 499.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 489.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 479.0, 473.28, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 469.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 459.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 449.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 439.0, 438.79, 430.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 429.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 419.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 409.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 399.0, 398.0, 394.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 389.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 379.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 369.0, 364.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 359.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 349.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 339.0, 332.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 329.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 319.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 309.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 299.0, 294.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 289.0, 287.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 279.0, 276.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 269.0, 259.0, 259.0, 259.0, 259.0, 259.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 249.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 239.0, 229.0, 229.0, 229.0, 229.0, 229.0, 229.0, 219.0, 219.0, 219.0, 219.0, 219.0, 219.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 209.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 199.0, 189.0, 189.0, 189.0, 169.0]
+2022-01-18 21:27:45 INFO  Log4j:18 - Price order is correct
+2022-01-18 21:27:48 INFO  Log4j:14 - Test is ending...
+2022-01-18 21:27:49 INFO  Log4j:10 - Test is starting...
+2022-01-18 21:27:51 INFO  Log4j:18 - Opening Page : https://www.mizu.com/flowers
+2022-01-18 21:27:51 INFO  Log4j:18 - Waited for page to load
+2022-01-18 21:27:52 INFO  Log4j:18 - Closed address focus icon
+2022-01-18 21:27:52 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:27:57 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:02 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:07 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:12 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:17 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:22 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:27 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:33 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:38 INFO  Log4j:18 - Page scrolled down 9 times
+2022-01-18 21:28:38 INFO  Log4j:18 - Created map with status code and link
+2022-01-18 21:28:38 INFO  Log4j:18 - Status code and link map sorted by link sort
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=2
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=3
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=4
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=5
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=6
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=7
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=8
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=9
+2022-01-18 21:28:38 INFO  Log4j:18 - Product Size: 60 , Link :https://www.mizu.com/flowers?page=10
+2022-01-18 21:28:40 INFO  Log4j:14 - Test is ending...
