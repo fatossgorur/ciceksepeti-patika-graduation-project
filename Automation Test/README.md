@@ -5,6 +5,8 @@
 
 This project is a automation test project developed for ```https://www.mizu.com``` and ```https://www.mizu.com/flowers```
 
+- [Manual test cases for ```https://www.mizu.com/login```](https://github.com/fatossgorur/ciceksepeti-patika-graduation-project/blob/main/Automation%20Test/Login%20Test%20Cases.xlsx)
+
 # Introduction
 
 + Automation test was written for 3 selected scenarios.
